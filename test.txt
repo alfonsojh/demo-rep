@@ -7,3 +7,4 @@ line 6 local
 test test test
 new branch
 new mesg  to the new file in branch
+new linea added to the feature
