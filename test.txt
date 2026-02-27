@@ -5,5 +5,3 @@ line 4 from github
 line 5 local
 line 6 local
 test test test
-
-final edit
